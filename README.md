@@ -30,5 +30,6 @@ Beberapa test case yang diimplementasikan dalam project ini antara lain:
 - **TC_PURCHASE_002** – Checkout dengan beberapa produk
 ## Cara Menjalankan Project
 1. Clone repository ini:
-   ```bash https://github.com/ulfia-22/WafaUlfiyah-230209063-UASPPL
+   ```bash
+   https://github.com/ulfia-22/WafaUlfiyah-230209063-UASPPL
 
