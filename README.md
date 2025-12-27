@@ -1,15 +1,13 @@
-# UAS PPL – Test Automation Project
+# UAS PENGUJIAN PERANGKAT LUNAK – Test Automation Project
 
-## Informasi Mahasiswa
+## Informasi Mahasiswi
 - **Nama**: Wafa Ulfiyah  
 - **NIM**: 230209063  
 - **Mata Kuliah**: Pengujian Perangkat Lunak (PPL)  
 - **Jenis Tugas**: Ujian Akhir Semester (UAS)
 
 ## Deskripsi Project
-Project ini merupakan implementasi **Test Automation** menggunakan **Selenium WebDriver** sebagai bagian dari tugas UAS mata kuliah Pengujian Perangkat Lunak (PPL).
-
-Pengujian dilakukan untuk memastikan fungsionalitas aplikasi berjalan sesuai dengan kebutuhan sistem, meliputi pengujian autentikasi, produk, dan keranjang belanja.
+Project ini merupakan implementasi **Test Automation** menggunakan **Selenium WebDriver** sebagai bagian dari tugas UAS mata kuliah Pengujian Perangkat Lunak (PPL). Pengujian dilakukan untuk memastikan fungsionalitas aplikasi berjalan sesuai dengan kebutuhan sistem, meliputi pengujian autentikasi, produk, dan keranjang belanja.
 
 ## Tools & Teknologi
 - Java
@@ -30,4 +28,8 @@ Beberapa test case yang diimplementasikan dalam project ini antara lain:
 - **TC_CART_002** – Menghapus produk dari keranjang
 - **TC_PURCHASE_001** – Checkout dengan satu produk
 - **TC_PURCHASE_002** – Checkout dengan beberapa produk
+## Cara Menjalankan Project
+1. Clone repository ini:
+   ```bash
+https://github.com/ulfia-22/WafaUlfiyah-230209063-UASPPL
 
