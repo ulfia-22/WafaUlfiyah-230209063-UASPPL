@@ -27,4 +27,7 @@ Beberapa test case yang diimplementasikan dalam project ini antara lain:
 - **TC_PROD_001** – Menampilkan semua produk di halaman utama  
 - **TC_PROD_002** – Navigasi antar kategori produk  
 - **TC_CART_001** – Menambahkan produk ke keranjang  
-- **TC_CART_002** – Menghapus produk dari keranjang  
+- **TC_CART_002** – Menghapus produk dari keranjang
+- **TC_PURCHASE_001** – Checkout dengan satu produk
+- **TC_PURCHASE_002** – Checkout dengan beberapa produk
+
